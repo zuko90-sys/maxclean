@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zuko90-sys.github.io/maxclean/sitemap.xml

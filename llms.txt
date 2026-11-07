@@ -1,0 +1,31 @@
+# Max Clean — upholstery cleaning, air-conditioner cleaning, mold removal and ozone treatment in Batumi and Tbilisi, Georgia
+
+> Max Clean (also written MaxClean, Макс Клин) is a cleaning service with teams in Batumi and Tbilisi, Georgia. It does dry cleaning of upholstered furniture and mattresses, air-conditioner cleaning, mold removal, ozone disinfection, and kitchen and bathroom cleaning. There is no fixed price list: the price is quoted from photos and the floor area, so the fastest way to order is to send a photo on Telegram. The website is in Russian.
+
+In Russian the services are called: химчистка мебели, химчистка дивана, химчистка матраса, химчистка кресла, чистка кондиционера, удаление плесени, озонирование квартиры, клининг, уборка кухни.
+
+## Services
+
+- Upholstery and mattress cleaning (химчистка мебели): sofas, armchairs, chairs, mattresses. To get a price, send a photo of the furniture.
+- Air-conditioner cleaning (чистка кондиционеров): cleaning of the indoor unit. To get a price, send a photo showing where the unit is mounted.
+- Mold removal (удаление плесени): treatment with professional chemicals. The price is estimated from a photo or on site.
+- Ozone treatment (озонирование): disinfection of the whole apartment or house with ozone; it kills mold, bacteria and viruses. The process takes 2–6 hours; afterwards the team airs the apartment wearing gas masks and checks the ozone level with a meter so it is safe to return. The price depends on the floor area.
+- Cleaning (клининг): stoves, kitchen fronts, bathroom fixtures and floors.
+
+## Before an ozone treatment
+
+- Move plants to a balcony or the stairwell.
+- Take pets out of the apartment.
+- Leave the apartment for the duration of the treatment.
+- Give the Wi-Fi name and password so the device can be controlled remotely.
+
+## How to order
+
+- Batumi: phone and Telegram +995 599 50 91 49, Instagram https://www.instagram.com/max_clean_batumi/
+- Tbilisi: phone and Telegram +995 595 00 50 71, Instagram https://www.instagram.com/max_clean_tbilisi/
+- Send a photo of what needs cleaning (and the floor area for cleaning or ozone treatment); the team replies with a price and a time slot.
+
+## Links
+
+- Website: https://zuko90-sys.github.io/maxclean/
+- Before-and-after photos of their work are on the website and on Instagram.
