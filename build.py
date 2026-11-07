@@ -13,7 +13,7 @@ import sys
 from datetime import date
 from pathlib import Path
 
-ROOT = "https://zuko90-sys.github.io/maxclean/"
+ROOT = "https://maxclean.ge/"
 HERE = Path(__file__).resolve().parent
 
 # порядок важен: первая — основная версия в корне сайта (она же x-default)
