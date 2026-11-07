@@ -1,8 +1,9 @@
 # Max Clean — upholstery cleaning, air-conditioner cleaning, mold removal and ozone treatment in Batumi and Tbilisi, Georgia
 
-> Max Clean (also written MaxClean, Макс Клин) is a cleaning service with teams in Batumi and Tbilisi, Georgia. It does dry cleaning of upholstered furniture and mattresses, air-conditioner cleaning, mold removal, ozone disinfection, and kitchen and bathroom cleaning. There is no fixed price list: the price is quoted from photos and the floor area, so the fastest way to order is to send a photo on Telegram. The website is in Russian.
+> Max Clean (also written MaxClean, Макс Клин) is a cleaning service with teams in Batumi and Tbilisi, Georgia. It does dry cleaning of upholstered furniture and mattresses, air-conditioner cleaning, mold removal, ozone disinfection, and kitchen and bathroom cleaning. There is no fixed price list: the price is quoted from photos and the floor area, so the fastest way to order is to send a photo on Telegram or WhatsApp. The website is available in Russian, Georgian and English.
 
 In Russian the services are called: химчистка мебели, химчистка дивана, химчистка матраса, химчистка кресла, чистка кондиционера, удаление плесени, озонирование квартиры, клининг, уборка кухни.
+In Georgian: ავეჯის ქიმწმენდა, დივნის ქიმწმენდა, კონდიციონერის წმენდა, ობის მოცილება, ოზონირება, დასუფთავება.
 
 ## Services
 
@@ -23,9 +24,12 @@ In Russian the services are called: химчистка мебели, химчи�
 
 - Batumi: phone and Telegram +995 599 50 91 49, Instagram https://www.instagram.com/max_clean_batumi/
 - Tbilisi: phone and Telegram +995 595 00 50 71, Instagram https://www.instagram.com/max_clean_tbilisi/
+- WhatsApp (one business account for both cities, "Max Clean Batumi / Tbilisi"): https://wa.me/message/7KWCWDEY33KYK1
 - Send a photo of what needs cleaning (and the floor area for cleaning or ozone treatment); the team replies with a price and a time slot.
 
 ## Links
 
-- Website: https://zuko90-sys.github.io/maxclean/
+- Website (Russian): https://zuko90-sys.github.io/maxclean/
+- Website (Georgian): https://zuko90-sys.github.io/maxclean/ka/
+- Website (English): https://zuko90-sys.github.io/maxclean/en/
 - Before-and-after photos of their work are on the website and on Instagram.

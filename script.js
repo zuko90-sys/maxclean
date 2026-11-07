@@ -1,14 +1,15 @@
 // Переключатель города и ползунки «до/после»
 (function () {
+  var LANG = document.documentElement.lang || 'ru';
   var CITIES = {
     batumi: {
-      ru: 'в Батуми', en: 'Batumi',
+      in: { ru: 'в Батуми', ka: 'ბათუმში', en: 'in Batumi' }, en: 'Batumi',
       phone: '+995 599 50 91 49', tel: 'tel:+995599509149',
       tg: 'https://t.me/+995599509149',
       ig: 'https://www.instagram.com/max_clean_batumi/'
     },
     tbilisi: {
-      ru: 'в Тбилиси', en: 'Tbilisi',
+      in: { ru: 'в Тбилиси', ka: 'თბილისში', en: 'in Tbilisi' }, en: 'Tbilisi',
       phone: '+995 595 00 50 71', tel: 'tel:+995595005071',
       tg: 'https://t.me/+995595005071',
       ig: 'https://www.instagram.com/max_clean_tbilisi/'
@@ -19,7 +20,7 @@
 
   function setCity(key, animate) {
     var c = CITIES[key] || CITIES.batumi;
-    all('[data-bind="city-ru"]').forEach(function (el) { el.textContent = c.ru; });
+    all('[data-bind="city-in"]').forEach(function (el) { el.textContent = c.in[LANG] || c.in.ru; });
     all('[data-bind="city-en"]').forEach(function (el) { el.textContent = c.en; });
     all('[data-bind="phone"]').forEach(function (el) { el.textContent = c.phone; });
     all('[data-bind="tel"]').forEach(function (el) { el.href = c.tel; });

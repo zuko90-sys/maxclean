@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://zuko90-sys.github.io/maxclean/</loc>
-    <lastmod>2026-11-07</lastmod>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url><loc>https://zuko90-sys.github.io/maxclean/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://zuko90-sys.github.io/maxclean/"/><xhtml:link rel="alternate" hreflang="ka" href="https://zuko90-sys.github.io/maxclean/ka/"/><xhtml:link rel="alternate" hreflang="en" href="https://zuko90-sys.github.io/maxclean/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://zuko90-sys.github.io/maxclean/"/><lastmod>2026-11-07</lastmod></url>
+  <url><loc>https://zuko90-sys.github.io/maxclean/ka/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://zuko90-sys.github.io/maxclean/"/><xhtml:link rel="alternate" hreflang="ka" href="https://zuko90-sys.github.io/maxclean/ka/"/><xhtml:link rel="alternate" hreflang="en" href="https://zuko90-sys.github.io/maxclean/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://zuko90-sys.github.io/maxclean/"/><lastmod>2026-11-07</lastmod></url>
+  <url><loc>https://zuko90-sys.github.io/maxclean/en/</loc><xhtml:link rel="alternate" hreflang="ru" href="https://zuko90-sys.github.io/maxclean/"/><xhtml:link rel="alternate" hreflang="ka" href="https://zuko90-sys.github.io/maxclean/ka/"/><xhtml:link rel="alternate" hreflang="en" href="https://zuko90-sys.github.io/maxclean/en/"/><xhtml:link rel="alternate" hreflang="x-default" href="https://zuko90-sys.github.io/maxclean/"/><lastmod>2026-11-07</lastmod></url>
 </urlset>
