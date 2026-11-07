@@ -36,9 +36,12 @@
     try { localStorage.setItem('mc-city', key); } catch (e) {}
   }
 
+  // ?city=tbilisi в ссылке (например, из Google-профиля Тбилиси) важнее запомненного выбора
+  var fromUrl = null;
+  try { fromUrl = new URLSearchParams(location.search).get('city'); } catch (e) {}
   var saved = null;
   try { saved = localStorage.getItem('mc-city'); } catch (e) {}
-  setCity(CITIES[saved] ? saved : 'batumi', false);
+  setCity(CITIES[fromUrl] ? fromUrl : (CITIES[saved] ? saved : 'batumi'), false);
 
   all('.city__btn').forEach(function (b) {
     b.addEventListener('click', function () { setCity(b.dataset.city, true); });
