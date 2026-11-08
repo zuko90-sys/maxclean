@@ -7,6 +7,7 @@
 
 Запуск из папки проекта:  python3 build.py
 """
+import hashlib
 import json
 import re
 import sys
@@ -65,6 +66,10 @@ def translate(html, lang, table):
     return out
 
 
+def file_version(name):
+    return hashlib.md5((HERE / name).read_bytes()).hexdigest()[:8]
+
+
 def page_url(lang):
     return ROOT + LANGS[lang]["dir"]
 
@@ -98,6 +103,9 @@ def build_page(template, lang):
         "locale": conf["locale"],
         "og_image": ROOT + conf["og"],
         "fonts": FONTS[lang],
+        # отпечаток содержимого: после правки CSS/JS браузеры не возьмут старую версию из кэша
+        "v_css": file_version("styles.css"),
+        "v_js": file_version("script.js"),
     }.items():
         html = html.replace("{{" + key + "}}", value)
     html = translate(html, lang, load_dict(lang))
